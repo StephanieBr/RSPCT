@@ -1,0 +1,121 @@
+body{
+	background-color: #FBE9E7 !important;
+	font-family: 'Lato', sans-serif !important;
+}
+/* -------------------------
+Navbar Section Starts Here 
+----------------------------*/
+.navbar-custom{
+	padding: 2em;
+	background-color: #FBE9E7 !important;
+}
+.navbar-logo{
+	margin-top: -1em;
+}
+/* -------------------------
+Navbar Section Ends Here 
+----------------------------*/
+.title-text{
+	padding-top: 3em;
+	padding-bottom: 4em;
+	;
+}
+.title-text h1{
+	font-size:3em;
+	line-height: 1.3em;
+	/* text-shadow: 0 0 3px #000000; */
+}
+
+/* .section-1 h2{
+	font-size:1.5em;
+	color: #55556a;
+	line-height: 1.5em;
+} */
+.btn-border{
+	border: solid 1px #BDBDBD;
+	border-radius: 10px;
+	padding: 3%;
+
+}
+
+ .cta-btn .btn{
+	background-color: #D84315 !important;
+	color: white !important;
+	text-shadow: 0 0 .5px #000000;
+	font-size: 1.25em;
+}
+
+ .cta-btn .btn:hover{
+	background-color: #F57C00 !important;
+}
+
+.rspct-btn .btn{
+	background-color: #F44336 !important;
+	color: white;
+}
+
+.rspct-btn .btn:hover{
+	background-color: #EF5350 !important;
+	color: white;
+}
+
+.jaaga-logo{
+	margin-top: 6.5em;
+}
+
+.hackerrank-logo{
+	margin-top: 5em;
+}
+
+.footer{
+	/* background-color: #FFCCBC !important; */
+}
+.footer-content li{
+	display: inline;
+	
+
+}
+
+
+
+
+
+
+/* ------------------
+General Styling here
+---------------------*/
+h1{
+	font-size: 2em !important;
+}
+h2{
+	font-size:1.2em !important;
+	color: #55556a !important;
+	line-height: 1.5em !important;
+}
+
+h3{
+	font-size: 1.6em !important;
+	color: #283593 !important; /* 800 */
+	text-align: center;
+}
+.moderate-margin-bottom{
+	margin-bottom: 3em;
+}
+
+.moderate-margin-top{
+	margin-top: 3em;
+}
+
+.heavy-margin-top{
+	margin-top: 7em !important;
+}
+
+.heavy-margin-bottom{
+	margin-bottom: 7em;
+}
+/* ------------------ */
+
+
+/* Things to do 
+add font family
+*/
