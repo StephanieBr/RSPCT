@@ -1,5 +1,5 @@
 body{
-	background-color: #FBE9E7 !important;
+	background-color: #FDF6E3 !important;
 	font-family: 'Lato', sans-serif !important;
 }
 /* -------------------------
@@ -7,10 +7,14 @@ Navbar Section Starts Here
 ----------------------------*/
 .navbar-custom{
 	padding: 2em;
-	background-color: #FBE9E7 !important;
+	background-color: #EEE8D5 !important;
 }
 .navbar-logo{
 	margin-top: -1em;
+}
+
+.navbar-custom li a{
+	font-size: 1.4em;
 }
 /* -------------------------
 Navbar Section Ends Here 
@@ -21,7 +25,6 @@ Navbar Section Ends Here
 	;
 }
 .title-text h1{
-	font-size:3em;
 	line-height: 1.3em;
 	/* text-shadow: 0 0 3px #000000; */
 }
@@ -31,6 +34,11 @@ Navbar Section Ends Here
 	color: #55556a;
 	line-height: 1.5em;
 } */
+.post-nav-btn{
+	white-space: normal !important;
+    
+}
+	
 .btn-border{
 	border: solid 1px #BDBDBD;
 	border-radius: 10px;
@@ -85,12 +93,12 @@ Navbar Section Ends Here
 General Styling here
 ---------------------*/
 h1{
-	font-size: 2em !important;
+	font-size: 2.5em !important;
 }
 h2{
 	font-size:1.2em !important;
 	color: #55556a !important;
-	line-height: 1.5em !important;
+	line-height: 1.75em !important;
 }
 
 h3{
@@ -107,13 +115,18 @@ h3{
 }
 
 .heavy-margin-top{
-	margin-top: 7em !important;
+	margin-top: 9em !important;
 }
 
 .heavy-margin-bottom{
 	margin-bottom: 7em;
 }
-/* ------------------ */
+
+/* @media screen and (max-width: 480px) {
+    .cta-btn{
+	font-size:.65em !important;
+}
+} */
 
 
 /* Things to do 
